@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <h1>Всем привет, меня зовут Кристина👋 </h1>
-    <h3>Full Stack Developer from New York</h3>
 </div>
 
 ### Обо мне
